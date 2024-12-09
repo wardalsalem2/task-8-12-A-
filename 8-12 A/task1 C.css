@@ -1,0 +1,49 @@
+
+*{
+    box-sizing: border-box;}
+
+
+
+
+body{
+    background-color: darkgoldenrod;
+}
+    
+.header{
+    background-color: gold; 
+    padding-bottom: 10px;
+    display: flex;
+
+}
+
+.text{
+    background-color: aliceblue;
+    width: 75%;
+    padding: 10px;
+    
+float: left;
+height: 1200px;
+/* display: inline-block; */
+
+}
+.item {
+    background-color: darkgray;
+    width: 25%;
+
+float: left;
+height: 1200px;
+flex: 25%;
+/* display: inline-block; */
+
+    
+    
+}
+
+footer{
+    background-color: rgb(68, 68, 68); 
+    text-align: center;
+    color: white;
+    width: 100%;
+  
+
+}

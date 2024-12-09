@@ -1,0 +1,25 @@
+body{ 
+    background-color: darkmagenta;
+}
+.float {
+overflow:hidden ;
+
+
+}
+.float div{
+    overflow: hidden;
+    float: left;
+width: 31%;
+height: 100px;
+margin: 3px;
+
+
+}
+
+.scroll{
+    overflow-y: scroll;
+    height: 50px;
+    border-top: 3px solid black;
+    border-bottom: 3px solid;
+}
+

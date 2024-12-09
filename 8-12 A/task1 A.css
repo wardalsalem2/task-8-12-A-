@@ -1,0 +1,10 @@
+.image{
+
+height: 550px;
+width: 150px;
+background-image: url("image.png");
+right: 20px;
+position: fixed;
+background-size: contain;
+
+}

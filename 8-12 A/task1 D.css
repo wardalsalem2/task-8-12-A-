@@ -1,0 +1,21 @@
+
+.All{
+float: left;
+}
+
+
+.odd,.even{
+    border: 1px solid black;
+    background-color: red;
+    width: 55px;
+    height: 10px;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    display: inline;
+    margin-right: 10px;
+}
+
+.even{
+    display:none;
+}
