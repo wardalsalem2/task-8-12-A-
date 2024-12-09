@@ -1,0 +1,21 @@
+.position{
+background-color: green;
+border-style:double ;
+width: 200px;
+height: 200px;
+
+
+}
+.one{
+   
+outline-style: double; 
+width: 150px;
+height: 150px;
+}
+
+.two{
+    
+outline-style: double; 
+width: 75px;
+height: 75px;
+}
